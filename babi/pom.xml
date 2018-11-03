@@ -36,7 +36,11 @@
           <execution>
             <phase>compile </phase>
             <configuration>
-            
+              <target>
+
+                
+
+              </target>
             </configuration>
             <goals>
               <goal>run</goal>
