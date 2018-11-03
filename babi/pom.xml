@@ -37,8 +37,9 @@
             <phase>compile </phase>
             <configuration>
               <target>
-
-                
+			  <tasks>
+				<echo>hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</echo>
+				</tasks>               
 
               </target>
             </configuration>
@@ -46,9 +47,7 @@
               <goal>run</goal>
             </goals>
           </execution>
-		  <tasks>
-		  <echo>hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</echo>
-		  </tasks>
+		  
         </executions>
       </plugin>    
         <plugin>
