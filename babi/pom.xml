@@ -46,7 +46,9 @@
               <goal>run</goal>
             </goals>
           </execution>
+		  <tasks>
 		  <echo>hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</echo>
+		  </tasks>
         </executions>
       </plugin>    
         <plugin>
