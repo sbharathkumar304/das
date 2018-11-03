@@ -36,12 +36,10 @@
           <execution>
             <phase>compile </phase>
             <configuration>
-              <target>
-			  <tasks>
+              <tasks>
 				<echo>hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</echo>
-				</tasks>               
+				</tasks>     
 
-              </target>
             </configuration>
             <goals>
               <goal>run</goal>
