@@ -52,6 +52,11 @@
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
+	<plugin>
+  	<groupId>org.jacoco</groupId>
+  	<artifactId>jacoco-maven-plugin</artifactId>
+  	<version>0.8.3-SNAPSHOT</version>
+	</plugin>
     
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
